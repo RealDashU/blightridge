@@ -1,4 +1,4 @@
-# blightridge
+# Blightridge, a new, modern, simple Discord theme.
 
 
 Blightridge is just a simplistic, modern and updated CSS based Discord theme for use with the Bandaged Better Discord client (BBD) created by Zerebos.
