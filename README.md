@@ -6,7 +6,7 @@ Blightridge is just a simplistic, modern and updated CSS based Discord theme for
 New features will be automatically added as new updates go along with no need to reinstall the theme. To reload the theme and apply new updates, simply click CTRL+R to restart your Discord client. Then the update should have applied. 
 
 
-Blightridge is currently in an alpha stage of development (v0.0.0.1) and has many more features planned in the future. Right now, expect uncolored sections, sections that may be transparent and things that may be unfinished. Blightridge is also customizable. All that's needed is to change the HTML list at the very bottom of the CSS file. There you will be able to separate the colors you want. -- Preset color palettes to be added soon.
+Blightridge is currently in an alpha stage of development (v0.0.1.0) and has many more features planned in the future. Right now, expect uncolored sections, sections that may be transparent and things that may be unfinished. Blightridge is also customizable. All that's needed is to change the HTML list at the very bottom of the CSS file. There you will be able to separate the colors you want. -- Preset color palettes to be added soon.
 
 
 Crashes occured when using this theme may not directly relate with the actual theme file and may just be a missing area added by a certain plugin you may have, however crashes are very likely as this theme messes with the core elements of Discord's CSS to give you a nice, new looking Discord appearance.
