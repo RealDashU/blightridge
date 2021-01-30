@@ -1,7 +1,7 @@
 # Blightridge. A new, modern and simple Discord theme.
 
 
-Blightridge is just a simplistic, modern and updated CSS based Discord theme for use with the Bandaged Better Discord client (BBD created by Zerebos).
+Blightridge is just a simplistic, modern and updated CSS based Discord theme created by DashU#8181 for use with the Bandaged Better Discord client (BBD created by Zerebos).
 
 New features will be automatically added as new updates go along with no need to reinstall the theme. To reload the theme and apply new updates, simply click CTRL+R to restart your Discord client. Then the update should have applied. 
 
@@ -16,4 +16,4 @@ Crashes occured when using this theme may not directly relate with the actual th
 
 
 
-Have any questions, features you want added or color changes you have in mind? Contact DashU#8181 or SixBytes#1555 on Discord and feel free to ask. 
+Have any questions, features you want added or color changes you have in mind? Contact DashU#8181 on Discord and feel free to ask. 
